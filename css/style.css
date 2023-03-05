@@ -35,5 +35,7 @@
 }
 
 #main-navbar ul li a:hover{
-  background-color: black;
+  text-decoration: none;
+  box-shadow: inset 125px 0 0 0 deepskyblue;
+  color: white;
 }
