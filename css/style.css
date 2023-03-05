@@ -1,0 +1,39 @@
+#main-navbar{
+  background-color: lightblue;
+  overflow: hidden;
+}
+
+#navbar-container{
+  float: left;
+  width: 100%;
+  position: relative;
+}
+
+#main-navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
+}
+
+#main-navbar ul li{
+  float: left;
+  position: relative;
+  right: 50%;
+  display: block;
+}
+
+#main-navbar ul li a{
+  display: block;
+  color: deepskyblue;
+  margin: 0 -.25rem;
+  padding: 0 .25rem;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+  text-decoration: none;
+}
+
+#main-navbar ul li a:hover{
+  background-color: black;
+}
