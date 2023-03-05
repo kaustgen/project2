@@ -26,6 +26,7 @@ h1{
   list-style-type: none;
   margin: 0;
   padding: 0;
+  text-align: center;
 }
 
 #main-navbar ul li{
@@ -40,8 +41,7 @@ h1{
   margin: 0 -.25rem;
   padding: 10px 20px;
   transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
-  text-decoration: none;
-  text-align: center;
+  text-decoration: none
 }
 
 #main-navbar ul li a:hover{
