@@ -3,10 +3,16 @@
   overflow: hidden;
 }
 
+#header-container{
+  float: left;
+  width: 100%;
+  position: relative;
+}
+
 #header h1{
   font-family: Arial, Helvetica, sans-serif;
   font-size: 3em;
-  font: bold
+  font: bold;
   position: relative;
   right: 50%;
 }
@@ -20,6 +26,7 @@
   float: left;
   width: 100%;
   position: relative;
+  border-bottom: 2px solid black;
 }
 
 #main-navbar ul {
@@ -44,7 +51,6 @@
   display: block;
   color: deepskyblue;
   margin: 0 -.25rem;
-  border-bottom: 2px solid black;
   padding: 10px 20px;
   transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
   text-decoration: none;
