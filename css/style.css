@@ -14,7 +14,6 @@ h1{
 #main-navbar{
   background-color: lightblue;
   overflow: hidden;
-  text-align: center;
 }
 
 #navbar-container{
@@ -22,20 +21,21 @@ h1{
   width: 100%;
   position: relative;
   border-bottom: 2px solid black;
-  text-align: center;
 }
 
 #main-navbar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  text-align: center;
+  position: relative;
+  left: 50%;
+  float: left;
 }
 
 #main-navbar ul li{
   float: left;
   position: relative;
-  text-align: center;
+  right: 50%;
 }
 
 #main-navbar ul li a{
@@ -55,3 +55,5 @@ h1{
   color: white;
   text-align: center;
 }
+
+#resume-header
