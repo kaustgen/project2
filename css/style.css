@@ -20,13 +20,13 @@ h1{
   width: 100%;
   position: relative;
   border-bottom: 2px solid black;
+  text-align: center;
 }
 
 #main-navbar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  text-align: center;
 }
 
 #main-navbar ul li{
