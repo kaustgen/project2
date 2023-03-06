@@ -70,7 +70,7 @@ h1{
   position: relative;
   padding: 1rem 1rem;
   width: 25%;
-  vertical-align: middle;
+  vertical-align: top;
 }
 
 #education h2{
@@ -89,7 +89,7 @@ h1{
   position: relative;
   padding: 1rem 1rem;
   width: 25%;
-  vertical-align: middle;
+  vertical-align: top;
 }
 
 #technical h2{
@@ -103,7 +103,7 @@ h1{
   position: relative;
   padding: 1rem 1rem;
   width: 25%;
-  vertical-align: middle;
+  vertical-align: top;
 }
 
 #work-experience h2{
