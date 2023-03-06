@@ -57,16 +57,19 @@ h1{
   float: left;
   position: relative;
   left: 50%;
+  width: 100%;
 }
 
 #education{
   float: left;
   position: relative;
   padding: 10px 10px;
+  width: 100%;
 }
 
 #education h2{
   font-weight: bold;
   font-size: 1em;
   border-bottom: 2px solid black;
+  border-width: 3em;
 }
