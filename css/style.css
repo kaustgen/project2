@@ -58,3 +58,15 @@ h1{
   position: relative;
   left: 50%;
 }
+
+#education{
+  float: left;
+  position: relative;
+  padding: 10px 10px;
+}
+
+#education h2{
+  font-weight: bold;
+  font-size: 1em;
+  border-bottom: 2px solid black;
+}
