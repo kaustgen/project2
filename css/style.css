@@ -83,3 +83,9 @@ h1{
   padding: 10px 10px;
   width: 25%;
 }
+
+#technical h2{
+  font-weight: bold;
+  font-size: 1.4em;
+  border-bottom: 2px solid black;
+}
