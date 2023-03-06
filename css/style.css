@@ -53,18 +53,18 @@ h1{
   color: white;
 }
 
+#inline-parent{
+  margin: 1rem;
+  padding: 1rem 1rem;
+  text-align: center;
+}
+
 #resume-header{
   display: inline-block;
   margin: 1rem;
   padding: 1rem 1rem;
   position: relative;
   vertical-align: top;
-}
-
-#inline-parent{
-  margin: 1rem;
-  padding: 1rem 1rem;
-  text-align: center;
 }
 
 #education{
