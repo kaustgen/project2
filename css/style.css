@@ -53,11 +53,6 @@ h1{
   color: white;
 }
 
-#inline-resume-header{
-  margin: 1rem;
-  padding: 1rem 1rem;
-  text-align: center;
-}
 #resume-header{
   display: inline-block;
   margin: 1rem;
