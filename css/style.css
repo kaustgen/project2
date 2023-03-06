@@ -107,7 +107,7 @@ h1{
   border-bottom: .2rem solid black;
 }
 
-#technical ul{
+#skills ul{
   -webkit-column-count: 3;
   -moz-column-count: 3;
   column-count: 3;
