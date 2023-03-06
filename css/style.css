@@ -42,7 +42,7 @@ h1{
   font-size: 1.5em;
   color: navy;
   margin: 0 -.25rem;
-  padding: 20px 35px;
+  padding: 1.25rem 2.188rem;
   transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
   text-decoration: none;
 }
