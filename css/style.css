@@ -116,7 +116,7 @@ h1{
   column-gap: 1.25rem
 }
 
-#certification ul{
+#certifications ul{
   -webkit-column-count: 2;
   -moz-column-count: 2;
   column-count: 2;
