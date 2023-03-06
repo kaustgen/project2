@@ -68,7 +68,11 @@ h1{
 
 #education h2{
   font-weight: bold;
-  font-size: 5em;
+  font-size: 1.25em;
   border-bottom: 2px solid black;
-  border-right: 100px;
+}
+
+#education h3{
+  font-weight: bold;
+  font-size: 0.75em;
 }
