@@ -54,9 +54,11 @@ h1{
 }
 
 #resume-header{
+  margin: 1rem;
+  padding: 1rem 1rem;
+  position: relative;
   float: left;
-  left: 50%;
-  width: 100%;
+  left: 50%
 }
 
 #inline-parent{
