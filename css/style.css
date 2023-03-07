@@ -226,7 +226,7 @@ body {
   display: inline-block;
   vertical-align: top;
   position: relative;
-  width: 25%;
+  width: 50%;
   padding: 2em 2em;
 }
 #table-format-fall h3{
@@ -237,7 +237,7 @@ body {
   display: inline-block;
   vertical-align: top;
   position: relative;
-  width: 25%;
+  width: 50%;
   padding: 2em 2em
 }
 #table-format-spring h3{
