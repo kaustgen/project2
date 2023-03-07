@@ -320,5 +320,5 @@ img:hover{
   padding: 2.5em 2.5;
   background-color: mediumaquamarine;
   border-radius: 2.5rem;
-  border-style: 0.5rem ridge black;
+  border: 0.5rem ridge black;
 }
