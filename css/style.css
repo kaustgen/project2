@@ -1,3 +1,8 @@
+#border-background{
+  background-color: lightblue;
+  border-radius: 1.875;
+}
+
 h1{
   background-color: aquamarine;
   padding: 1.5rem 1.5rem;
