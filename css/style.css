@@ -316,9 +316,9 @@ img:hover{
 
 /*CSS for Hobbies*/
 #hobbies-wrapper{
-  margin: 5em 5em;
+  margin: 2em 2em;
   padding: 2.5em 2.5;
   background-color: mediumaquamarine;
   border-radius: 2.5rem;
-  border-style: ridge;
+  border-style: 0.5rem ridge black;
 }
