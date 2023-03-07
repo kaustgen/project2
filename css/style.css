@@ -225,12 +225,13 @@ body {
 }
 
 #table-wrapper{
-  text-align: center;
+  position: relative;
 }
 
 #table-format-fall{
   display: inline-block;
-  position: relative;
+  position: absolute;
+  top: 0;
   padding: 2em 2em;
 }
 #table-format-fall h3{
@@ -248,7 +249,8 @@ body {
 
 #table-format-spring{
   display: inline-block;
-  position: relative;
+  position: absolute;
+  bottom: 0;
   padding: 2em 2em
 }
 #table-format-spring h3{
