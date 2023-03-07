@@ -61,6 +61,12 @@
 
 
 /* CSS resume page*/
+#resume-border{
+  background-color: lightgray;
+  border: 0.5 black;
+  border-style: dashed;
+}
+
 #inline-resume-header{
   margin: 1rem;
   padding: 1rem 1rem;
