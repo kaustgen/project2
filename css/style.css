@@ -115,6 +115,10 @@
 }
 
 /*CSS resume page - fixed*/
+#blue-background{
+  background-color: navy;
+}
+
 #resume-border{
   background-color: lightgray;
   border: 0.15em black;
