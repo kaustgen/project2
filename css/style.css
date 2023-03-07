@@ -28,7 +28,6 @@ body {
 
 /*Universal img animation*/
 img {
-  border: 0.2rem solid black dotted
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
   -webkit-animation-fill-mode: both;
@@ -313,4 +312,11 @@ img:hover{
 }
 .purple{
   background-color:purple
+}
+
+/*CSS for Hobbies*/
+#hobbies-wrapper{
+  margin: 1em 1em;
+  padding: 2.5em 2.5;
+  background-color: mediumaquamarine;
 }
