@@ -206,10 +206,15 @@ body {
 }
 
 /*CSS schedule page*/
+#inline-schedule-header{
+  margin: 1rem 1rem;
+  padding: 1rem 1rem;
+  text-align: center;
+}
 #schedule-header{
   display: inline-block;
-  text-align: center;
   vertical-align: top;
+  position: relative;
 }
 #schedule-header h2{
   font-weight: bold;
