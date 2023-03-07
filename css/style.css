@@ -63,7 +63,7 @@
 /* CSS resume page*/
 #resume-border{
   background-color: lightgray;
-  border: 0.5em black;
+  border: 0.15em black;
   border-style: dashed;
   padding: 1em
 }
