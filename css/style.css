@@ -224,8 +224,8 @@ body {
 }
 #table-format-fall{
   display: inline-block;
-  text-align: left;
   vertical-align: top;
+  position: relative;
   width: 25%;
   padding: 2em 2em;
 }
@@ -235,8 +235,8 @@ body {
 
 #table-format-spring{
   display: inline-block;
-  text-align: right;
   vertical-align: top;
+  position: relative;
   width: 25%;
   padding: 2em 2em
 }
