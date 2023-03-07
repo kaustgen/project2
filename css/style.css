@@ -208,7 +208,7 @@ body {
 /*CSS schedule page*/
 #inline-schedule-header{
   text-align: center;
-  margin: 1rem 1rem;
+  margin: 7.5rem 1rem;
   padding: 1rem 1rem;
 }
 #schedule-header{
@@ -228,6 +228,7 @@ body {
 }
 
 #table-format-fall{
+  background-color: white;
   display: inline-block;
   vertical-align: top;
   position: relative;
@@ -238,6 +239,7 @@ body {
 }
 
 #table-format-spring{
+  background-color: white;
   display: inline-block;
   vertical-align: top;
   position: relative;
