@@ -225,6 +225,7 @@ body {
 #table-format-fall{
   display: inline-block;
   text-align: left;
+  vertical-align: top;
   padding: 2em 2em;
 }
 #table-format-fall h3{
@@ -234,6 +235,7 @@ body {
 #table-format-spring{
   display: inline-block;
   text-align: right;
+  vertical-align: top;
   padding: 2em 2em
 }
 #table-format-spring h3{
