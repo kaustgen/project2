@@ -206,6 +206,27 @@ body {
 }
 
 /*CSS schedule page*/
-#table-format{
-  
+#schedule-header{
+  float: left;
+  left: 50%;
+}
+#schedule-header h2{
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 2em;
+}
+#table-format-fall{
+  float: left;
+  left: 25%;
+}
+#table-format-fall h3{
+  text-align: center;
+}
+
+#table-format-spring{
+  float: right;
+  right: 25%;
+}
+#table-format-spring h3{
+  text-align: center;
 }
