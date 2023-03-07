@@ -211,6 +211,21 @@ body {
   margin: 1rem 1rem;
   padding: 1rem 1rem;
 }
+#schedule-header-background{
+  border-style: groove;
+  border-width: 1rem;
+  border-color: black;
+  animation: switch 0.2 infinite;
+}
+
+@keyframes switch{
+  50%{
+    background-color: black;
+  }
+  100%{
+    background-color: white;
+  }
+}
 #schedule-header{
   background-color: cornflowerblue;
   display: inline-block;
