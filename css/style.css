@@ -249,7 +249,8 @@ body {
 #table-format-spring{
   display: inline-block;
   position: relative;
-  padding: 2em 8em
+  padding: 2em 2em;
+  margin: 10em;
 }
 #table-format-spring h3{
   text-align: center;
