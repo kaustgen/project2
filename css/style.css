@@ -209,6 +209,7 @@ body {
 #schedule-header{
   display: inline-block;
   text-align: center;
+  vertical-align: top;
 }
 #schedule-header h2{
   font-weight: bold;
@@ -217,7 +218,8 @@ body {
 }
 #table-format-fall{
   display: inline-block;
-  text-align: left 25%;
+  text-align: left;
+  padding: 5em 5em;
 }
 #table-format-fall h3{
   text-align: center;
@@ -225,7 +227,8 @@ body {
 
 #table-format-spring{
   display: inline-block;
-  text-align: right 25%;
+  text-align: right;
+  padding: 5em 5em
 }
 #table-format-spring h3{
   text-align: center;
