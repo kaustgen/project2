@@ -19,6 +19,7 @@ body {
   text-align: center;
 }
 
+/*Universal img animation*/
 img {
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
