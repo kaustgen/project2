@@ -1,3 +1,10 @@
+/*Class to allign*/
+.align-center{
+  margin: 1rem;
+  padding: 1rem 1rem;
+  text-align: center;
+} 
+
 /*header for all pages css*/
 body {
   background-color: dodgerblue;
@@ -153,24 +160,12 @@ img:hover{
   margin: auto;
 }
 
-#inline-resume-header{
-  margin: 1rem;
-  padding: 1rem 1rem;
-  text-align: center;
-} 
-
 #resume-header{
   display: inline-block;
   margin: 1rem;
   padding: 1rem 1rem;
   position: relative;
   vertical-align: top;
-}
-
-#inline-parent{
-  margin: 1rem;
-  padding: 1rem 1rem;
-  text-align: center;
 }
 
 #education{
@@ -238,9 +233,6 @@ img:hover{
 }
 
 /*CSS schedule page*/
-#inline-schedule-header{
-  text-align: center;
-}
 #schedule-header-background{
   border: solid 0.5rem maroon;
   margin: 0.1em;
@@ -267,10 +259,6 @@ img:hover{
   font-weight: bold;
   font-family: 'Times New Roman', Times, serif;
   font-size: 2em;
-}
-
-#table-format-center{
-  text-align: center;
 }
 
 #table-format-fall{
@@ -316,6 +304,7 @@ img:hover{
 .rainbow-color{
   background-image: linear-gradient(to left, violet, indigo, blue,
    green, yellow, orange, red);
+  border: 0.1rem solid black;
 }
 
 .light-purple{
