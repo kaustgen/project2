@@ -208,24 +208,22 @@ body {
 /*CSS schedule page*/
 #inline-schedule-header{
   text-align: center;
-  margin: 1rem 1rem;
-  padding: 1rem 1rem;
 }
 #schedule-header-background{
-  border-style: dashed;
-  border-width: 0.2rem;
-  border-color: black;
-  animation: switch 0.2 infinite;
+  border: solid 0.25rem maroon;
+  clip-path: polygon(
+    calc(0% + 5px) calc(0% + 5px), 
+    calc(100% - 5px) calc(0% + 5px), 
+    calc(100% - 5px) calc(100% - 5px), 
+    calc(0% + 5px) calc(100% - 5px)
+  );
+  transition: clip-path 0.6s linear;
 }
 
-@keyframes switch{
-  50%{
-    background-color: black;
-  }
-  100%{
-    background-color: white;
-  }
+#schedule-header-background:hover {
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
 }
+
 #schedule-header{
   background-color: cornflowerblue;
   display: inline-block;
@@ -237,10 +235,6 @@ body {
   font-weight: bold;
   font-family: 'Times New Roman', Times, serif;
   font-size: 2em;
-}
-
-#table-wrapper{
-  text-align: center;
 }
 
 #table-format-fall{
