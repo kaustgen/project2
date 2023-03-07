@@ -212,6 +212,7 @@ body {
   padding: 1rem 1rem;
 }
 #schedule-header{
+  background-color: cornflowerblue;
   display: inline-block;
   vertical-align: top;
   position: relative;
@@ -228,7 +229,6 @@ body {
 }
 
 #table-format-fall{
-  background-color: white;
   display: inline-block;
   position: relative;
   padding: 2em 2em;
@@ -240,13 +240,13 @@ body {
 }
 
 #table-format-fall td{
+  font-size: 1em;
   padding: 0.25rem;
   border: 0.1rem solid black;
   font-family: 'Times New Roman', Times, serif;
 }
 
 #table-format-spring{
-  background-color: white;
   display: inline-block;
   position: relative;
   padding: 2em 2em
@@ -258,9 +258,15 @@ body {
 }
 
 #table-format-spring td{
+  font-size: 1em;
   padding: 0.25rem;
   border: 0.1rem solid black;
   font-family: 'Times New Roman', Times, serif;
+}
+
+.rainbow-color{
+  background-image: linear-gradient(to left, violet, indigo, blue,
+   green, yellow, orange, red);
 }
 
 .light-purple{
