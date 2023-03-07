@@ -9,73 +9,10 @@
   position: relative;
 }
 
-/*Simple wave animation added to each title*/
-.header-animation{
-  margin-top: 0.6em;
-  font-size: 3em;
-  text-align: center;
-}
-
-.header-animation h1{
+.header-border h1{
   overflow: hidden;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font: bold;
-}
-
-.header-animation span{
-  display: inline-block;
-  -webkit-animation: wave-text 1s ease-in-out infinite;
-  animation: wave-text 1s ease-in-out infinite;
-}
-
-.header-animation span:nth-of-type(1){
-  -webkit-animation-delay: 0s;
-  animation-delay: 0s;
-}
-
-.header-animation span:nth-of-type(2){
-  -webkit-animation-delay: 0.1s;
-  animation-delay: 0.1s;
-}
-
-.header-animation span:nth-of-type(3){
-  -webkit-animation-delay: 0.2s;
-  animation-delay: 0.2s;
-}
-
-.header-animation span:nth-of-type(4){
-  -webkit-animation-delay: 0.3s;
-  animation-delay: 0.3s;
-}
-
-.header-animation span:nth-of-type(5){
-  -webkit-animation-delay: 0.4s;
-  animation-delay: 0.4s;
-}
-
-/*animation keyframes*/
-@-webkit-keyframes header-text{
-  00% {
-    transform: translateY(0em)
-  }
-  60% {
-    transform: translateY(-0.6em);
-  }
-  100% {
-    transform: translateY(0em);
-  }
-}
-
-@keyframes header-text{
-  00% {
-    transform: translateY(0em);
-  }
-  60% {
-    transform: translateY(-0.6em);
-  }
-  100% {
-    transform: translateY(0em);
-  }
 }
 
 /*navbar css*/
