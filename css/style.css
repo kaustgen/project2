@@ -59,8 +59,60 @@
   color: white;
 }
 
+/*Css index page*/
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+#index{
+  background-color: dodgerblue;
+  font-family: "Luckiest Guy", cursive;
+}
 
-/* CSS resume page - fixed*/
+#index h2{
+  margin-top: 5em;
+  text-align: center;
+}
+
+#index h2 span{
+  position: relative;
+  top: 20px;
+  font-size: 80px;
+  color: white;
+  text-shadow: 0 1px 0 grey, 0 2px 0 grey, 0 3px 0 grey, 
+  0 4px 0 grey, 0 5px 0 grey, 0 6px 0 transparent, 0 7px 0 transparent, 
+  0 8px 0 transparent, 0 9px 0 transparent, 0 10px 10px rgb(0, 0, 0, 0.4);
+  animation: bounce 0.3s infinite alternate;
+}
+
+@keyframes bounce{
+  100% {
+    top: -20px;
+    text-shadow: 0 1px 0 grey, 0 2px 0 grey, 0 3px 0 grey, 
+  0 4px 0 grey, 0 5px 0 grey, 0 6px 0 grey, 0 7px 0 grey, 
+  0 8px 0 grey, 0 9px 0 grey, 0 50px 25px rgb(0, 0, 0, 0.2);
+  }
+}
+h1 span:nth-child(2){
+  animation-delay: 0.1s;
+}
+h1 span:nth-child(3){
+  animation-delay: 0.2s;
+}
+h1 span:nth-child(4){
+  animation-delay: 0.3s;
+}
+h1 span:nth-child(5){
+  animation-delay: 0.4s;
+}
+h1 span:nth-child(6){
+  animation-delay: 0.5s;
+}
+h1 span:nth-child(7){
+  animation-delay: 0.6s;
+}
+h1 span:nth-child(8){
+  animation-delay: 0.7s;
+}
+
+/*CSS resume page - fixed*/
 #resume-border{
   background-color: lightgray;
   border: 0.15em black;
