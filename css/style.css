@@ -1,5 +1,5 @@
 /*header for all pages css*/
-.header-border{
+#header-border{
   width:100%;
   border: 0.5em black;
   border-style: solid;
@@ -9,25 +9,25 @@
   position: relative;
 }
 
-.header-border h1{
+#header-border h1{
   overflow: hidden;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font: bold;
 }
 
 /*navbar css*/
-.main-navbar{
+#main-navbar{
   background-color: lightblue;
   overflow: hidden;
 }
 
-.navbar-container{
+#navbar-container{
   float: left;
   width: 100%;
   border-bottom: 2px solid black;
 }
 
-.main-navbar ul {
+#main-navbar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -36,13 +36,13 @@
   float: left;
 }
 
-.main-navbar ul li{
+#main-navbar ul li{
   float: left;
   position: relative;
   right: 50%;
 }
 
-.main-navbar ul li a{
+#main-navbar ul li a{
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.5em;
   color: navy;
@@ -52,7 +52,7 @@
   text-decoration: none;
 }
 
-.main-navbar ul li a:hover{
+#main-navbar ul li a:hover{
   text-decoration: none;
   box-shadow: inset 10.938rem 0 0 0 deepskyblue;
   color: white;
