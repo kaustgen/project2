@@ -237,6 +237,10 @@ body {
   font-size: 2em;
 }
 
+#table-format-center{
+  text-align: center;
+}
+
 #table-format-fall{
   display: inline-block;
   position: relative;
