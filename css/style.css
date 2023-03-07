@@ -317,10 +317,11 @@ img:hover{
 /*CSS for Hobbies*/
 #hobbies-wrapper{
   margin: 2em 2em;
-  padding: 2.5em 2.5em;
+  padding: 5em 5em;
   background-color: mediumaquamarine;
   border-radius: 2.5rem;
-  border: 0.5rem ridge black;
+  border-style: groove;
+  border: 0.2rem black;
 }
 
 #hobbies-lacrosse{
