@@ -230,8 +230,9 @@ body {
 
 #table-format-fall{
   display: inline-block;
-  position: absolute;
+  position: relative;
   top: 0;
+  left: 0;
   padding: 2em 2em;
 }
 #table-format-fall h3{
@@ -249,7 +250,8 @@ body {
 
 #table-format-spring{
   display: inline-block;
-  position: absolute;
+  position: relative;
+  right: 0;
   bottom: 0;
   padding: 2em 2em
 }
