@@ -235,6 +235,14 @@ body {
 }
 #table-format-fall h3{
   text-align: center;
+  padding: 1rem 1rem;
+  background-color: blueviolet;
+}
+
+#table-format-fall td{
+  padding: 0.25rem;
+  border: 0.1rem solid black;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 #table-format-spring{
@@ -245,4 +253,12 @@ body {
 }
 #table-format-spring h3{
   text-align: center;
+  padding: 1rem 1rem;
+  background-color: blueviolet;
+}
+
+#table-format-spring td{
+  padding: 0.25rem;
+  border: 0.1rem solid black;
+  font-family: 'Times New Roman', Times, serif;
 }
