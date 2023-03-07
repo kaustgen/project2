@@ -1,5 +1,6 @@
 #border-background{
-  background-color: lightblue;
+  background-color: lightcyan;
+  background-clip: border-box;
   border-radius: 1.875;
 }
 
