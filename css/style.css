@@ -258,6 +258,7 @@ body {
   padding: 0.25rem;
   border: 0.1rem solid black;
   font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
 }
 
 #table-format-spring{
@@ -277,6 +278,7 @@ body {
   padding: 0.25rem;
   border: 0.1rem solid black;
   font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
 }
 
 .rainbow-color{
