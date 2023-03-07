@@ -207,8 +207,8 @@ body {
 
 /*CSS schedule page*/
 #schedule-header{
-  float: left;
-  left: 50%;
+  display: inline-block;
+  text-align: center;
 }
 #schedule-header h2{
   font-weight: bold;
@@ -216,16 +216,16 @@ body {
   font-size: 2em;
 }
 #table-format-fall{
-  float: left;
-  left: 25%;
+  display: inline-block;
+  text-align: left 25%;
 }
 #table-format-fall h3{
   text-align: center;
 }
 
 #table-format-spring{
-  float: right;
-  right: 25%;
+  display: inline-block;
+  text-align: right 25%;
 }
 #table-format-spring h3{
   text-align: center;
