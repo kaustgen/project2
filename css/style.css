@@ -222,6 +222,11 @@ body {
   font-family: 'Times New Roman', Times, serif;
   font-size: 2em;
 }
+
+#table-wrapper{
+  text-align: center;
+}
+
 #table-format-fall{
   display: inline-block;
   vertical-align: top;
