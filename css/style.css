@@ -373,9 +373,12 @@ img:hover{
 }
 
 #hobbies-gaming{
+  margin: 0 0;
   width: 20%;
   top: 50%;
   left: 50%;
+  float: right;
+  position: relative;
   padding: 1rem 1rem;
   background-color: azure;
   border-radius: 2.5rem;
