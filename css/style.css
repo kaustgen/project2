@@ -363,7 +363,7 @@ img:hover{
 }
 
 #hobbies-gaming{
-  margin: 0 0;
+  margin: none;
   width: 30%;
   position: relative;
   padding: 1rem 1rem;
