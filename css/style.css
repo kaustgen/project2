@@ -332,6 +332,10 @@ img:hover{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+#hobbies-wrapper p{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 #hobbies-lacrosse{
   float: left;
   left: 25%;
