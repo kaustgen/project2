@@ -327,7 +327,8 @@ img:hover{
 
 #hobbies-wrapper h2{
   text-align: center;
-  border-bottom: 0.5rem solid black;
+  border-bottom: 0.15rem solid black;
+  margin: 0.25rem;
   font-weight: bold;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -336,7 +337,7 @@ img:hover{
   float: left;
   left: 50%;
   margin: 1rem 1rem;
-  padding: 2.5rem 2.5rem;
+  padding: 1.5rem 1.5rem;
   background-color: azure;
   position: relative;
 }
