@@ -316,8 +316,8 @@ img:hover{
 
 /*CSS for Hobbies*/
 #hobbies-wrapper{
-  margin: 0.5em 0.5em;
-  padding: 1.25em 1.25em;
+  margin: 5em 5em;
+  padding: 2em 2em;
   background-color: mediumaquamarine;
   border-radius: 2.5rem;
   border-style: groove;
@@ -339,8 +339,8 @@ img:hover{
 #hobbies-lacrosse{
   float: left;
   left: 25%;
-  margin: 1rem 1rem;
-  padding: 1.5rem 1.5rem;
+  margin: auto;
+  padding: auto;
   background-color: azure;
   border-radius: 2.5rem;
   border-style: groove;
@@ -358,8 +358,8 @@ img:hover{
 #hobbies-biking{
   float: right;
   right: 25%;
-  margin: 1rem 1rem;
-  padding: 1.5rem 1.5rem;
+  margin: auto;
+  padding: auto;
   background-color: azure;
   border-radius: 2.5rem;
   border-style: groove;
