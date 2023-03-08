@@ -338,6 +338,7 @@ img:hover{
 
 #hobbies-lacrosse{
   margin: none;
+  float: left;
   width: 30%;
   padding: 1rem 1rem;
   background-color: azure;
