@@ -342,6 +342,9 @@ img:hover{
   margin: 1rem 1rem;
   padding: 1.5rem 1.5rem;
   background-color: azure;
+  border-radius: 2.5rem;
+  border-style: groove;
+  border-color: royalblue;
   position: relative;
 }
 
@@ -358,6 +361,9 @@ img:hover{
   margin: 1rem 1rem;
   padding: 1.5rem 1.5rem;
   background-color: azure;
+  border-radius: 2.5rem;
+  border-style: groove;
+  border-color: royalblue;
   position: relative;
 }
 
