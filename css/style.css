@@ -325,6 +325,13 @@ img:hover{
   position: relative;
 }
 
+#hobbies-wrapper h2{
+  text-align: center;
+  border-bottom: 0.5rem solid black;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 #hobbies-lacrosse{
   float: left;
   left: 50%;
@@ -333,3 +340,5 @@ img:hover{
   background-color: azure;
   position: relative;
 }
+
+
