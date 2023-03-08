@@ -342,7 +342,7 @@ img:hover{
   margin: none;
   width: 30%;
   padding: 1rem 1rem;
-  background-color:lightseagreen
+  background-color:lightseagreen;
   border-radius: 2.5rem;
   border-style: groove;
   border-color: royalblue;
@@ -367,7 +367,7 @@ img:hover{
   width: 30%;
   position: relative;
   padding: 1rem 1rem;
-  background-color: azure;
+  background-color: lightseagreen;
   border-radius: 2.5rem;
   border-style: groove;
   border-color: royalblue;
@@ -376,6 +376,6 @@ img:hover{
 }
 
 #hobbies-gaming iframe{
-  width: 4rem;
-  height: 3rem;
+  width: 4em;
+  height: 3em;
 }
