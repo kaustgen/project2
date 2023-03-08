@@ -347,7 +347,7 @@ img:hover{
   border-style: groove;
   border-color: royalblue;
   position: relative;
-  display: inline-block;
+  text-align: center;
 }
 
 #hobbies-lacrosse p{
