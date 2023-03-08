@@ -323,6 +323,7 @@ img:hover{
   border-style: groove;
   border-color:royalblue;
   position: absolute;
+  display: inline-block;
 }
 
 #hobbies-wrapper h2{
@@ -339,7 +340,6 @@ img:hover{
 
 #hobbies-lacrosse{
   margin: none;
-  float: left;
   width: 30%;
   padding: 1rem 1rem;
   background-color: azure;
@@ -347,6 +347,7 @@ img:hover{
   border-style: groove;
   border-color: royalblue;
   position: relative;
+  display: inline-block;
 }
 
 #hobbies-lacrosse p{
@@ -364,24 +365,22 @@ img:hover{
 
 #hobbies-biking{
   width: 30%;
-  float: right;
   padding: 1rem 1rem;
   background-color: azure;
   border-radius: 2.5rem;
   border-style: groove;
   border-color: royalblue;
+  display: inline-block;
 }
 
 #hobbies-gaming{
   margin: 0 0;
   width: 20%;
-  top: 50%;
-  left: 50%;
-  float: right;
   position: relative;
   padding: 1rem 1rem;
   background-color: azure;
   border-radius: 2.5rem;
   border-style: groove;
-  border-color: royalblue
+  border-color: royalblue;
+  display: inline-block;
 }
