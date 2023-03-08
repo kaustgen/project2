@@ -374,7 +374,8 @@ img:hover{
 
 #hobbies-gaming{
   width: 20%;
-  float: center;
+  top: 50%;
+  left: 50%;
   padding: 1rem 1rem;
   background-color: azure;
   border-radius: 2.5rem;
