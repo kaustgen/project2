@@ -338,6 +338,7 @@ img:hover{
 
 #hobbies-lacrosse{
   width: 30%;
+  padding: 1rem 1rem;
   background-color: azure;
   border-radius: 2.5rem;
   border-style: groove;
@@ -361,10 +362,10 @@ img:hover{
 #hobbies-biking{
   width: 30%;
   float: right;
+  padding: 1rem 1rem;
   background-color: azure;
   border-radius: 2.5rem;
   border-style: groove;
   border-color: royalblue;
-  position: relative;
 }
 
