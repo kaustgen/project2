@@ -322,6 +322,7 @@ img:hover{
   border-radius: 2.5rem;
   border-style: groove;
   border-color:royalblue;
+  position: absolute;
 }
 
 #hobbies-wrapper h2{
