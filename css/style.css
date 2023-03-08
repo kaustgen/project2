@@ -345,10 +345,16 @@ img:hover{
 }
 
 #hobbies-lacrosse p{
-  text-align: right;
+  text-align: left;
+  position: relative;
 }
 #hobbies-lacrosse img{
-  text-align: right;
+  text-align: left;
+  position: relative;
+}
+#hobbies-lacrosse iframe{
+  text-align: center;
+  position: relative
 }
 
 #hobbies-biking{
