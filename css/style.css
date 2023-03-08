@@ -348,19 +348,7 @@ img:hover{
   border-color: royalblue;
   position: relative;
   display: inline-block;
-}
-
-#hobbies-lacrosse p{
-  text-align: left;
-  position: relative;
-}
-#hobbies-lacrosse img{
-  text-align: left;
-  position: relative;
-}
-#hobbies-lacrosse iframe{
-  text-align: center;
-  position: relative
+  vertical-align: top;
 }
 
 #hobbies-biking{
@@ -371,6 +359,7 @@ img:hover{
   border-style: groove;
   border-color: royalblue;
   display: inline-block;
+  vertical-align: top;
 }
 
 #hobbies-gaming{
@@ -383,4 +372,5 @@ img:hover{
   border-style: groove;
   border-color: royalblue;
   display: inline-block;
+  vertical-align: middle;
 }
