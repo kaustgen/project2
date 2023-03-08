@@ -342,4 +342,11 @@ img:hover{
   position: relative;
 }
 
+#hobbies-lacrosse p{
+  text-align: left;
+}
+#hobbies-lacrosse img{
+  text-align: right;
+}
+
 
