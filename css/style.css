@@ -349,4 +349,12 @@ img:hover{
   text-align: right;
 }
 
+#hobbies-biking{
+  float: right;
+  right: 25%;
+  margin: 1rem 1rem;
+  padding: 1.5rem 1.5rem;
+  background-color: azure;
+  position: relative;
+}
 
